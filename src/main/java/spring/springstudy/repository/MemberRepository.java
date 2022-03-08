@@ -2,6 +2,7 @@ package spring.springstudy.repository;
 
 import spring.springstudy.domain.Member;
 
+import java.sql.SQLException;
 import java.util.List;
 import java.util.Optional;
 
